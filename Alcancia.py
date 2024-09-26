@@ -74,7 +74,7 @@ class Alcancia:
         self.__Moneda1000 = 0
         self.__TotalDinero = 0
         
-        return dinero
+        return dineroAhorrado
     
 Alcancia1 = Alcancia(1, 2, 3, 4, 100)
 print ("Total monedas de 50:", Alcancia1.Moneda50)
